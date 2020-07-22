@@ -26,7 +26,7 @@ p "#{Venue.count} venue(s) created"
 
 @event1 = Event.create!(
   name: 'Mets Game',
-  date: '21-1-1',
+  date: '2021-1-1',
   time: '13:00',
   gate: '2A',
   section: 'B',
